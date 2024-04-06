@@ -7,7 +7,7 @@
 
 The project is divided into two main milestones, each with detailed steps to ensure a comprehensive and secure network setup.
 
-## Milestone 1: Network Infrastructure Setup and Configuration
+## ✅ Milestone 1: Network Infrastructure Setup and Configuration
 
 ### Network Design and Beautification
 - **Network Design and Beautification**: Establish a structured and visually organized network layout.
@@ -54,10 +54,10 @@ This README serves as a roadmap for the project, detailing each step involved in
     🔲 Configuration of access levels on network devices
     🔲 Procedure for restoring the network device operating system image
     🔲 Dynamic routing protocols
-    🔲 VLANs
-    🔲 Routing between VLANs
-    🔲 EtherChannel
-    🔲 Configuration of FHRP
+    ✅ VLANs
+    ✅ Routing between VLANs
+    ✅ EtherChannel
+    ✅ Configuration of FHRP
     🔲 Configuration of syslog
     🔲 Configuration of NTP
     🔲 Configuration of SNMP
